@@ -8,14 +8,8 @@ div {
 
 input {
     width: 100px;
-    display: flex;
-    flex-direction: row;
-    flex: 1;
-    flex-grow: 1;
-}
-a {
-    flex-grow: 1
-}
-b {
-    flex-grow: 2
+    height: 200px;
+    display: inline-block;
+    align-items: center;
+
 }
